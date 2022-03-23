@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "bcda546e260e219e",
+    "type": "split",
+    "children": [
+      {
+        "id": "00012cef0e96ee7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Q1/e-Feld/Plattenkondensator.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c827437275e9fd5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb9cff0da0cee09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2363bf7d14687f96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e589a529fb35d29d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d5427edfae7bef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0da7a337edaae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72277333801c03f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q1/e-Feld/Plattenkondensator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e39aa03166b8ef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00012cef0e96ee7b",
+  "lastOpenFiles": [
+    "Q1/e-Feld/Plattenkondensator.md",
+    "Lehrplan & Themen.md",
+    "Material/Lehrplan.pdf",
+    "Q1/e-Feld/Milikanversuch.md",
+    "Material/Schwebe-Fall-Methode.png",
+    "Q1/e-Feld/Coulomb'sches Gesetz.md",
+    "Q1/e-Feld/Feldbegriff und Feldlinienbilder.md",
+    "Weiteres/Grunddefinitionen/Kräfte/Elektrische Kraft.md",
+    "Weiteres/Grunddefinitionen/Kräfte/Auftriebskraft.md",
+    "Drawing 2022-03-22 16.45.01.excalidraw.md"
+  ]
+}

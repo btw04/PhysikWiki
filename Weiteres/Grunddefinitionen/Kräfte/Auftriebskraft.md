@@ -1,0 +1,2 @@
+## Definition
+Auf jeden Körper in einem anderen Material wirkt eine Auftriebskraft, bei uns dient diese Betrachtung meistens zur Berechnung eines Körpers in Luft$$F_{auftrieb} = \rho * V * g$$ => Dichte des umliegenden Materials * Volumen * Gravitationskonstante
