@@ -7,9 +7,11 @@
         "id": "00012cef0e96ee7b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Material/Lehrplan.pdf"
+            "file": "Lehrplan & Themen.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Lehrplan.pdf",
+                "file": "Lehrplan & Themen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +97,15 @@
   },
   "active": "00012cef0e96ee7b",
   "lastOpenFiles": [
-    "Material/Lehrplan.pdf",
     "Lehrplan & Themen.md",
-    "Material/Faraday_cage.gif",
-    "Weiteres/Grunddefinitionen/Faraday'scher Käfig.md",
+    "Material/Lehrplan.pdf",
+    "Q2/Schwingungen/DGL zum elektromag. Schwingkreis.md",
+    "Q2/Schwingungen/DGL zum elektromag. Schwingkreis-FlorianPC.md",
     "Weiteres/Grunddefinitionen/Widerstand.md",
-    "Material/Ohmsches Gesetz.png",
-    "Material/Widerstand Schaltsymbol.png",
-    "Weiteres/Grunddefinitionen/Maschenregel.md",
-    "Material/Maschenregel Beispiel.png",
-    "Material/Millikanversuch Aufbau.png"
+    "Weiteres/Grunddefinitionen/Maschengesetz.md",
+    "Q1/e-Feld/Milikanversuch.md",
+    "Q1/e-Feld/Feldbegriff und Feldlinienbilder.md",
+    "Q1/e-Feld/Plattenkondensator.md",
+    "Material/Aufbau des elektromagnetischen Schwingkreises.png"
   ]
 }

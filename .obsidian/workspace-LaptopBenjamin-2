@@ -7,9 +7,11 @@
         "id": "00012cef0e96ee7b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Material/Lehrplan.pdf"
+            "file": "Q2/Schwingungen/DGL zum elektromag. Schwingkreis.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "* ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -47,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Lehrplan.pdf",
+                "file": "Q2/Schwingungen/DGL zum elektromag. Schwingkreis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +98,15 @@
   },
   "active": "00012cef0e96ee7b",
   "lastOpenFiles": [
-    "Material/Lehrplan.pdf",
-    "Lehrplan & Themen.md",
-    "Material/Faraday_cage.gif",
-    "Weiteres/Grunddefinitionen/Faraday'scher Käfig.md",
-    "Weiteres/Grunddefinitionen/Widerstand.md",
-    "Material/Ohmsches Gesetz.png",
-    "Material/Widerstand Schaltsymbol.png",
+    "Q2/Schwingungen/DGL zum elektromag. Schwingkreis.md",
+    "Weiteres/Naturkonstanten/Elementarladung e.md",
     "Weiteres/Grunddefinitionen/Maschenregel.md",
-    "Material/Maschenregel Beispiel.png",
-    "Material/Millikanversuch Aufbau.png"
+    "Weiteres/Grunddefinitionen/Widerstand.md",
+    "Lehrplan & Themen.md",
+    "Material/Lehrplan.pdf",
+    "Q2/Schwingungen/DGL zum elektromag. Schwingkreis-FlorianPC.md",
+    "Weiteres/Grunddefinitionen/Maschengesetz.md",
+    "Q1/e-Feld/Milikanversuch.md",
+    "Q1/e-Feld/Feldbegriff und Feldlinienbilder.md"
   ]
 }
